@@ -15,3 +15,7 @@ Adicionar o endereço de repositorio na nuvem >> comando << git remote add origi
 Verificar o endereço do repositorio nuvem apontado  >> comando << git remote -v >>
 
 Enviar para repositorio nuvem >> comando << git push -u origin master >>
+
+Criar um Ramo >> comando << git branch novosComandos >>
+
+Entrar no novo Ramo >> comando << git checkout novosComandos >>
