@@ -1,0 +1,7 @@
+Configurar usuario e email do comite >> No Git Bash >>  comando << git user.name "Thiago Silva" >> e comando << git user.email "tcdasilva.ti@gmail.com" >>
+
+Inicializar o Git >> Na pasta do projeto >> comando << git init >>  
+
+Adicionar modificações >> Na pasta do projeto >> comando << git add nomeDoArquivo ou git add -A (paratadicionar todos)>> 
+
+Commit alterações/arquivos >> git commit -m "Comentarios de adições ou modificações"
