@@ -19,3 +19,5 @@ Enviar para repositorio nuvem >> comando << git push -u origin master >>
 Criar um Ramo >> comando << git branch novosComandos >>
 
 Entrar no novo Ramo >> comando << git checkout novosComandos >>
+
+Mesclar Ramos >> entre no ramo que vai ser atualizado >> comando << git checkout master >> comando << git merge ramoComAatualizacao >> 
