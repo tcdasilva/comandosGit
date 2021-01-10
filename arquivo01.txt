@@ -9,3 +9,9 @@ Adicionar modificações >> Na pasta do projeto >> comando << git add nomeDoArqu
 Commit alterações/arquivos >> comando << git commit -m "Comentarios de adições ou modificações" >>
 
 Logs >> comando << git log >>
+
+Adicionar o endereço de repositorio na nuvem >> comando << git remote add origin https://github.com/tcdasilva/comandosGit.git >>
+
+Verificar o endereço do repositorio nuvem apontado  >> comando << git remote -v >>
+
+Enviar para repositorio nuvem >> comando << git push -u origin master >>
